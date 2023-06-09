@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 1.75em;
+    font-family: 'Oswald', sans-serif;
+}
+
+header {
+    background-color: aquamarine;
+
+}
+footer {
+    background-color: aquamarine;
+}
+.container {
+    max width:1440px;
+    margin: 20px;
+    padding: 50px 30px 50px 30px;
+}
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.logo {
+    width: 2.5rem;
+    display: block;
+    margin: 0 auto;
+}
+h2 {
+    margin: 20px;
+    padding: 20px;
+    font-size: 1.5rem;
+    text-align: center;
+}
+.Avatar {
+    max-width: 500px;
+    width: 80%;
+    display: block ;
+    margin: 0 auto;
+}
+
+.main-nav {
+    list-style: 0;
+    display: inline-block;
+}
+
+
+.nav-item {
+    display: inline-block;
+    margin: 5px 10px;
+}
+
+
+a {
+    color: magenta;
+}
+
+
+h3{
+margin-block: 50px;
+padding: auto;
+}
+
+b {
+    padding: 20px;
+    margin: 20px;
+}
+p {
+    margin: 10px;
+    padding: 10px;
+}
+
+
+.notepad {
+    border: 20px;
+    box-shadow: inset;
+}
+
+.atom {
+    border-radius: 100px;
+}
+
+.vk {
+    width: 40px;
+}
+
+.inst {
+    width: 40px;
+}
+
+.facebook {
+    width: 40px;
+}
+
+
+.sublinetextt {
+    max-width: 700px;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
+.Atom {
+    max-width: 700px;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
+.notepad {
+    max-width: 700px;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
