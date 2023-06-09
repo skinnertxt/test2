@@ -9,11 +9,11 @@ html {
 }
 
 header {
-    background-color: aquamarine;
+    background-color: rgb(127, 255, 202);
 
 }
 footer {
-    background-color: aquamarine;
+    background-color: rgb(78, 11, 187);
 }
 .container {
     max width:1440px;
